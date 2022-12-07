@@ -105,7 +105,7 @@ int main(int argc,char **argv){
 
     unsigned int MAXSIZEPICTURE=20000;
     struct PictureBin *BinPcture=PictureBinNew(MAXSIZEPICTURE);
-    GetPicture("/home/Heisenberg/programm/ProgrammC/FaceID/Image/Image1.jpeg",BinPcture);
+    GetPicture("../Image/Image1.jpeg",BinPcture);
 
     int sizeSumbFile=send(Socket,BinPcture->Buffer,BinPcture->sizeSumbFileInp,MSG_NOSIGNAL);
     MessageSocket(sizeSumbFile);

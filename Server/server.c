@@ -57,7 +57,7 @@ void initial_file_not_empty(FILE * fl){
 // *************************************************
 // _______________methood restore image binary_________________
 // **************************************************
-#define PATHImage "/home/Heisenberg/programm/ProgrammC/FaceID/imageNew/image2New.jpeg"
+#define PATHImage "../imageNew/image1New.jpeg"
 
 
 void RestoreImage(struct PictureBin *BinPcture){
