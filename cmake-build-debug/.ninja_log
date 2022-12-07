@@ -1,0 +1,25 @@
+# ninja log v5
+0	110	1670345136278339428	CMakeFiles/FaceIDServer.dir/Server/server.c.o	4eaccb0ac787d2e6
+111	160	1670345136327339010	FaceIDServer	73bb9afd59ddeebf
+0	86	1670345145282262750	CMakeFiles/FaceIDClient.dir/Client/client.c.o	c9c8880e740a4bd2
+86	122	1670345145317262452	FaceIDClient	be6779177689655b
+1	136	1670395102084451317	CMakeFiles/FaceIDServer.dir/Server/server.c.o	4eaccb0ac787d2e6
+136	186	1670395102134451272	FaceIDServer	73bb9afd59ddeebf
+0	46	1670395199843307015	CMakeFiles/FaceIDServer.dir/Server/server.c.o	4eaccb0ac787d2e6
+46	75	1670395199871307097	FaceIDServer	73bb9afd59ddeebf
+0	48	1670395270104661774	CMakeFiles/FaceIDServer.dir/Server/server.c.o	4eaccb0ac787d2e6
+48	79	1670395270134662009	FaceIDServer	73bb9afd59ddeebf
+0	51	1670395320667893690	CMakeFiles/FaceIDClient.dir/Client/client.c.o	c9c8880e740a4bd2
+52	81	1670395320695893615	FaceIDClient	be6779177689655b
+0	49	1670395498425638260	CMakeFiles/FaceIDClient.dir/Client/client.c.o	c9c8880e740a4bd2
+50	77	1670395498452638234	FaceIDClient	be6779177689655b
+1	52	1670395571793477860	CMakeFiles/FaceIDClient.dir/Client/client.c.o	c9c8880e740a4bd2
+52	86	1670395571826477787	FaceIDClient	be6779177689655b
+0	86	1670395675062202961	CMakeFiles/FaceIDServer.dir/Server/server.c.o	4eaccb0ac787d2e6
+86	120	1670395675095202855	FaceIDServer	73bb9afd59ddeebf
+0	43	1670395919947312244	CMakeFiles/FaceIDServer.dir/Server/server.c.o	4eaccb0ac787d2e6
+43	72	1670395919975312136	FaceIDServer	73bb9afd59ddeebf
+0	48	1670395947932204428	CMakeFiles/FaceIDServer.dir/Server/server.c.o	4eaccb0ac787d2e6
+48	78	1670395947961204316	FaceIDServer	73bb9afd59ddeebf
+0	70	1670396013426952109	CMakeFiles/FaceIDServer.dir/Server/server.c.o	4eaccb0ac787d2e6
+70	113	1670396013468951947	FaceIDServer	73bb9afd59ddeebf

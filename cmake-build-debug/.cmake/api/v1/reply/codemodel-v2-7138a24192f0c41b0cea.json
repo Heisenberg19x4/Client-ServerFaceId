@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FaceID",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FaceIDClient::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FaceIDClient-Debug-b4eb1f12be6147084971.json",
+					"name" : "FaceIDClient",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FaceIDServer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FaceIDServer-Debug-9f90fd78aa480cb0d670.json",
+					"name" : "FaceIDServer",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/Heisenberg/programm/ProgrammC/FaceID/cmake-build-debug",
+		"source" : "/home/Heisenberg/programm/ProgrammC/FaceID"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

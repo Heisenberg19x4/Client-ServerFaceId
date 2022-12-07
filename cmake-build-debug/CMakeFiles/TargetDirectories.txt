@@ -1,0 +1,4 @@
+/home/Heisenberg/programm/ProgrammC/FaceID/cmake-build-debug/CMakeFiles/FaceIDServer.dir
+/home/Heisenberg/programm/ProgrammC/FaceID/cmake-build-debug/CMakeFiles/FaceIDClient.dir
+/home/Heisenberg/programm/ProgrammC/FaceID/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/Heisenberg/programm/ProgrammC/FaceID/cmake-build-debug/CMakeFiles/rebuild_cache.dir
